@@ -4,7 +4,7 @@ public class Pracownik {
 
     private String zawod;
 
-    void setSpedzanieWolnegoCzasu(SpedzanieWolnegoCzasu spedzanieWolnegoCzasu) {
+    void spedzajWolnyCzas(SpedzanieWolnegoCzasu spedzanieWolnegoCzasu) {
         spedzanieWolnegoCzasu.spedzajWolnyCzas();
     }
 
