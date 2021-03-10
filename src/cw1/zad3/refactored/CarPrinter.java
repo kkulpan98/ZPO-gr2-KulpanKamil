@@ -1,8 +1,7 @@
 package cw1.zad3.refactored;
 
 public class CarPrinter {
-    public void showCarName()
-    {
-        System.out.println(car.getCarName());
+    void printCarName(CarManufacturer carManufacturer){
+        carManufacturer.getCarName();
     }
 }
