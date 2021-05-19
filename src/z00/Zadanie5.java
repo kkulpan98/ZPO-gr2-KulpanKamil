@@ -28,9 +28,9 @@ public class Zadanie5 {
         }
     }
 
-    private static int[][] pomnozMacierz(int[][] macierz1, int[][] macierz2){
-
-    }
+//    private static int[][] pomnozMacierz(int[][] macierz1, int[][] macierz2){
+//
+//    }
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
