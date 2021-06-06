@@ -1,0 +1,3 @@
+Wzorzec dekorator najczęściej wykorzystywany będzie w miejscach gdzie można wybrać
+dla siebie mniejsze składniki większej rzeczy, np. pizza w pizzerii. Inaczej mówiąc
+w miejscu gdzie istnieje możliwość dowolnego komponowania końcowego obiektu z mniejszych składników

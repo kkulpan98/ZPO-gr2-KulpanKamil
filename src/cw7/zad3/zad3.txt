@@ -1,0 +1,3 @@
+Jest to wzorzec definiujący szkielet algorytmu, ale pozwalający na nadpisanie
+podklasom wybranych etapów tego algorytmu bez zmiany struktury.
+Jest szeroko stosowana w frameworkach z wyżej wymienionych powodów

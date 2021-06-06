@@ -1,1 +1,3 @@
-Strategia 
+Strategia pozwala na zmiane funkcjonalności klasy bez potrzeby jej rozszerzania
+Minusem jest większa ilość obiektów, zaś diagram klas robi się bardziej skomplikowany,
+za to implementacja nowych funkcjonalności będzie o wiele prostsza

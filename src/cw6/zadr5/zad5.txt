@@ -1,0 +1,2 @@
+Adapter - adaptuje/sprowadza do postaci takiej, która jest do przyjęcia przez nowy interfejs
+Fasada - stworzenie prostej bramki do skomplikowanego systemu
