@@ -1,9 +1,10 @@
-package cw9.zad1;
+package cw9.zad2;
 
 import java.util.ArrayList;
 
 public class Konto {
     private double saldo = 0;
+    private ArrayList<String> powiadomienia;
     private boolean czyPowiadomienia = false;
 
     public Konto(double saldo, boolean czyPowiadomienia) {
