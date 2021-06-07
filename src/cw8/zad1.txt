@@ -1,0 +1,3 @@
+Singleton najczęściej jest używany kiedy chcemy ograniczyc ilość tworzonych obiektów danej klasy do jednej instancji
+Na przykład chcemy mieć tylko jeden nawigator - obiekt służący do kierowania między ekranami w aplikacjach na Androida
+Albo chcemy mieć tylko jeden obiekt służący do zapisywania logów z aplikacji

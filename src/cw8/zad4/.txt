@@ -1,0 +1,4 @@
+Można wykorzystać tak zwany double-check-locking pattern poprzez użycie ifa oraz słowa
+synchonized
+Można użyć static holder singleton, którego przykłąd jest w plikach
+Mozna użyć enuma
